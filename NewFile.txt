@@ -1,1 +1,2 @@
 My new file is created
+Added New Line
